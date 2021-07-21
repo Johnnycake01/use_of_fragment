@@ -1,0 +1,2 @@
+rootProject.name = "Application Using Fragment"
+include ':app'
